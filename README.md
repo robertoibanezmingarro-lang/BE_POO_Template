@@ -1,6 +1,6 @@
 ## BE POO – Projet Bailarina
 
-Ce dépôt correspond au projet **Bailarina**, réalisé dans le cadre du **Bureau d’Études de Programmation Orientée Objet**.
+Ce dépôt correspond au projet **Capibara Bailarina**, réalisé dans le cadre du **Bureau d’Études de C++** à l’**INSA Toulouse**.
 
 Le projet implémente un système embarqué interactif basé sur un **ESP8266**, intégrant plusieurs capteurs et actionneurs, et piloté selon une architecture **orientée objet en C++**.  
 Il met en œuvre les principes fondamentaux de la POO (abstraction, héritage, composition et polymorphisme) ainsi qu’une communication **WiFi via HTTP**.
@@ -25,6 +25,17 @@ Cette organisation vise à garantir la lisibilité, l’extensibilité et la mai
 ### Travail collaboratif
 Le développement est réalisé de manière collaborative à l’aide de **GitHub**, en utilisant des branches de développement et des intégrations via *pull requests*.
 
+### Auteurs
+- **Roberto Ibanez Mingarro**
+- **Kevin Felipe Visbal Pinzón**
 ---
 
 Dépôt initialisé à partir du template fourni pour le BE POO.
+
+### Diagrammes UML
+
+#### Diagramme de classes
+![Diagramme de classes UML](diagrams/UML_Clase_Diagram.png)
+
+#### Diagramme de cas d’utilisation
+![Diagramme de cas d’utilisation UML](diagrams/UML_UseCase.png)
