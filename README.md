@@ -1,6 +1,6 @@
 ## BE POO – Projet Bailarina
 
-Ce dépôt correspond au projet **Capibara Bailarina**, réalisé dans le cadre du **Bureau d’Études de C++** à l’**INSA Toulouse**.
+Ce dépôt correspond au projet **Danseuse Capybara**, réalisé dans le cadre du **Bureau d’Études de C++** à l’**INSA Toulouse**.
 
 Le projet implémente un système embarqué interactif basé sur un **ESP8266**, intégrant plusieurs capteurs et actionneurs, et piloté selon une architecture **orientée objet en C++**.  
 Il met en œuvre les principes fondamentaux de la POO (abstraction, héritage, composition et polymorphisme) ainsi qu’une communication **WiFi via HTTP**.
