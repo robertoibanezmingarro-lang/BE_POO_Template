@@ -35,7 +35,7 @@ Dépôt initialisé à partir du template fourni pour le BE POO.
 ### Diagrammes UML
 
 #### Diagramme de classes
-![Diagramme de classes UML](diagrams/UML_Clase_Diagram.png)
+![Diagramme de classes UML](uml_diagrams/UML_Clase_Diagram.png)
 
 #### Diagramme de cas d’utilisation
-![Diagramme de cas d’utilisation UML](diagrams/UML_UseCase.png)
+![Diagramme de cas d’utilisation UML](uml_diagrams/UML_UseCase.png)
